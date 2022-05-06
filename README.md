@@ -38,7 +38,7 @@ d. Deploy to minikube (create and apply a deployment and service manifests)
 
 e. Access/Test the service, run "minikube service --url name of service" on your terminal to retrieve the URL then access the URL from a web browser
 
-### **3. (Optional) AUTOMATE THE PROCESS USING GITHUB ACTIONS**
+### **3. (Optional) AUTOMATE THE DEPLOYMENT PROCESS USING GITHUB ACTIONS**
 
 a. Create a new repository on github (you can use an existing repository as well)
 
