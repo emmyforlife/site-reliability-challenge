@@ -4,7 +4,7 @@ This repository contains the configuration files for the project to create a sma
 
 ## **Prerequisites:**
 
-i. Install a WSL (Ubuntu) on your laptop. From a command line "wsl --install -d Ubuntu" or select another distribution
+i. Install a WSL (Ubuntu) on your laptop. From a command line with root privileges, run  "wsl --install -d Ubuntu" or select another distribution
 
 ii. Install Docker. For instructions on how to install docker, see [LINK](https://docs.docker.com/engine/install/)
 
@@ -16,7 +16,7 @@ v. Download and Install Visual Studio Code. See [LINK](https://code.visualstudio
 
 # **DEPLOY A SAMPLE APPLICATION**
 
-a. Create a sample application (See uploaded files)
+a. Create a sample javascript application (See uploaded files).
 
 b. Dockerize the application (See the Dockerfile), build the docker image and run on you local system.
 
@@ -46,4 +46,4 @@ c. Push your deployment files and manifests to the repository
 
 d. Create a workflow
 
-e. Make changes to trigger automatic build
+e. Make changes to trigger an automatic build
