@@ -6,13 +6,13 @@ This repository contains the configuration files for the project to create a sma
 
         i. Install a WSL (Ubuntu) on your laptop. From a command line with root privileges, run  "wsl --install -d Ubuntu" or select another distribution
 
-        ii. Install Docker. For instructions on how to install docker, see [LINK](https://docs.docker.com/engine/install/)
+        ii. Install Docker. For instructions on how to install docker, see [LINK] (https://docs.docker.com/engine/install/)
 
-        iii. Install and start minikube. Follow the instructions on the [LINK](https://minikube.sigs.k8s.io/docs/start/)
+        iii. Install and start minikube. Follow the instructions on the [LINK] (https://minikube.sigs.k8s.io/docs/start/)
 
-        iv. Download and Install nodejs. See [LINK](https://nodejs.org/en/download/)
+        iv. Download and Install nodejs. See [LINK] (https://nodejs.org/en/download/)
 
-        v. Download and Install Visual Studio Code. See [LINK](https://code.visualstudio.com/download)
+        v. Download and Install Visual Studio Code. See [LINK] (https://code.visualstudio.com/download)
 
 # **DEPLOY A SAMPLE APPLICATION**
 
